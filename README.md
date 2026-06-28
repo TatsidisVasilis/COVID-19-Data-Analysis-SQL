@@ -55,6 +55,24 @@ Tables used:
 
 During this project I practiced importing data into PostgreSQL, creating tables, writing SQL queries, working with joins and aggregate functions, and exploring real-world data to answer business questions.
 
+## Sample Outputs
+
+### Country with Highest Death Percentage
+
+![Country with Highest Death Percentage](screenshots/highest_death_percentage_country.png)
+
+### Continent Cases Analysis
+
+![Continent Cases Analysis](screenshots/continent_cases_analysis.png)
+
+### Fully Vaccinated Population by Country
+
+![Fully Vaccinated Population by Country](screenshots/fully_vaccinated_population_by_country.png)
+
+### Top 10 Extreme Poverty Countries
+
+![Top 10 Extreme Poverty Countries](screenshots/top_10_extreme_poverty_countries.png)
+
 ## Author
 
 **Vasileios Tatsidis**
